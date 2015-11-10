@@ -1,0 +1,1 @@
+<resources><string name="Hello">Hello World, Click Me!</string><string name="ApplicationName">cv5_fragment</string><string name="planet_prompt">Choose a planet</string><string-array name="planets_array"><item>1</item><item>2</item><item>3</item><item>5</item><item>7</item></string-array></resources>

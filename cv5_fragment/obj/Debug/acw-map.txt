@@ -1,0 +1,12 @@
+cv5_fragment.Activity1, cv5_fragment;md5e4555d234ad2215134f80caba217260e.Activity1
+cv5_fragment.Activity1, cv5_fragment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e4555d234ad2215134f80caba217260e.Activity1
+cv5_fragment.Activity1;md5e4555d234ad2215134f80caba217260e.Activity1
+cv5_fragment.Activity1;md5e4555d234ad2215134f80caba217260e.Activity1
+cv5_fragment.Fragment1, cv5_fragment;md5e4555d234ad2215134f80caba217260e.Fragment1
+cv5_fragment.Fragment1, cv5_fragment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e4555d234ad2215134f80caba217260e.Fragment1
+cv5_fragment.Fragment1;md5e4555d234ad2215134f80caba217260e.Fragment1
+cv5_fragment.Fragment1;md5e4555d234ad2215134f80caba217260e.Fragment1
+cv5_fragment.MainActivity, cv5_fragment;md5e4555d234ad2215134f80caba217260e.MainActivity
+cv5_fragment.MainActivity, cv5_fragment, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5e4555d234ad2215134f80caba217260e.MainActivity
+cv5_fragment.MainActivity;md5e4555d234ad2215134f80caba217260e.MainActivity
+cv5_fragment.MainActivity;md5e4555d234ad2215134f80caba217260e.MainActivity

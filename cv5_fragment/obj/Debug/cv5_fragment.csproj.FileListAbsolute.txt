@@ -1,0 +1,15 @@
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\bin\Debug\cv5_fragment.dll
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\bin\Debug\cv5_fragment.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\bin\Debug\cv5_fragment.cv5_fragment.apk
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\bin\Debug\cv5_fragment.cv5_fragment-Signed.apk
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\cv5_fragment.csprojResolveAssemblyReference.cache
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\cv5_fragment.dll
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\cv5_fragment.pdb
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\android\bin\cv5_fragment.cv5_fragment.apk
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\res\layout\activity1.xml
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\res\layout\main.xml
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\res\values\strings.xml
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\res\drawable\icon.png
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\R.cs.flag
+c:\users\pavel\documents\visual studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\uploadflags.txt
+C:\Users\Pavel\Documents\Visual Studio 2015\Projects\cv5_fragment\cv5_fragment\obj\Debug\res\layout\fragment2.xml
